@@ -146,7 +146,13 @@
           </p>
         </hint>
         <answer>
-          <image width="80%" source="images/3_2_Act1Soln"><description><p>ADD ALT TEXT TO THIS IMAGE</p></description></image>
+          <image width="80%" source="images/3_2_Act1Soln">
+            <description>
+              <p>
+                This figure shows two possible graphs of a cubic polynomial <m>p</m> that has a positive lead coefficient and passes through the origin.  The first (at left) is always increasing and has no critical number(s).  The second, at right, shows two critical numbers at <m>x = \pm \sqrt{\frac{a}{3}}</m>, with a local maximum at <m>x = -\sqrt{\frac{a}{3}}</m> and a local minimum at <m>x = \sqrt{\frac{a}{3}}</m>.
+              </p>
+            </description>
+          </image>
         </answer>
         <solution>
           <p>
@@ -159,7 +165,13 @@
             Note, too,
             that <m>p</m> has its <m>x</m>-intercepts at <m>x = \pm \sqrt{a}</m>.
           </p>
-          <image width="80%" source="images/3_2_Act1Soln"><description><p>ADD ALT TEXT TO THIS IMAGE</p></description></image>
+          <image width="80%" source="images/3_2_Act1Soln">
+            <description>
+              <p>
+                This figure shows two possible graphs of a cubic polynomial <m>p</m> that has a positive lead coefficient and passes through the origin.  The first (at left) is always increasing and has no critical number(s).  The second, at right, shows two critical numbers at <m>x = \pm \sqrt{\frac{a}{3}}</m>, with a local maximum at <m>x = -\sqrt{\frac{a}{3}}</m> and a local minimum at <m>x = \sqrt{\frac{a}{3}}</m>.
+              </p>
+            </description>
+          </image>
         </solution>
       </task>
     </activity>
