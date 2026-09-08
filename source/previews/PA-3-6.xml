@@ -22,7 +22,13 @@
           What is the largest possible volume of a rectangular parcel with a square end that can be sent by mail?
           What are the dimensions of the package of largest volume?
         </p>
-        <image width="40%" source="images/3_4_PA1"><description><p>ADD ALT TEXT TO THIS IMAGE</p></description></image>
+        <image width="40%" source="images/3_4_PA1">
+          <description>
+            <p>
+              This image shows a long rectangular box with square ends.
+            </p>
+          </description>
+        </image>
       </introduction>
       <task workspace="0.05cm" xml:id="PA-3-6-task-0">
         <statement>

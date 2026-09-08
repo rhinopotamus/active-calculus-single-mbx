@@ -76,7 +76,13 @@
         <ol marker="a." >
           <li >
             <sidebyside width="50%" >
-              <image source="images/3_2_Ez1Soln"><description><p>ADD ALT TEXT TO THIS IMAGE</p></description></image>
+              <image source="images/3_2_Ez1Soln">
+                <description>
+                  <p>
+                    A cubic polynomial with a repeated root at <m>x = 0</m> and a single root at <m>x = a \gt 0</m>.  The graph reflects all of the other properties noted in the other parts of this exercise.
+                  </p>
+                </description>
+              </image>
             </sidebyside>
           </li>
           <li >
@@ -112,7 +118,13 @@
               A typical such function is plotted below.
             </p>
             <sidebyside width="50%" >
-              <image source="images/3_2_Ez1Soln"><description><p>ADD ALT TEXT TO THIS IMAGE</p></description></image>
+              <image source="images/3_2_Ez1Soln">
+                <description>
+                  <p>
+                    A cubic polynomial with a repeated root at <m>x = 0</m> and a single root at <m>x = a \gt 0</m>.  The graph reflects all of the other properties noted in the other parts of this exercise.
+                  </p>
+                </description>
+              </image>
             </sidebyside>
           </li>
           <li >
@@ -216,7 +228,13 @@
           </li>
           <li >
             <sidebyside width="50%" >
-              <image source="images/3_2_Ez2Soln"><description><p>ADD ALT TEXT TO THIS IMAGE</p></description></image>
+              <image source="images/3_2_Ez2Soln">
+                <description>
+                  <p>
+                    The graph of a function with a vertical asymptote at <m>x = c \gt 0</m>.  For <m>x \gt c</m>, the function is decreasing and concave down and approaches a horizontal asymptote of <m>y = 0</m>.  For <m>x \lt c</m>, the function is always concave down with a local maximum at <m>(c-1, q(c-1))</m>.
+                  </p>
+                </description>
+              </image>
             </sidebyside>
           </li>
         </ol>
@@ -289,7 +307,13 @@
               Note how <m>q</m> is increasing and decreasing according to our earlier work in (d).
             </p>
             <sidebyside width="50%" >
-              <image source="images/3_2_Ez2Soln"><description><p>ADD ALT TEXT TO THIS IMAGE</p></description></image>
+              <image source="images/3_2_Ez2Soln">
+                <description>
+                  <p>
+                    The graph of a function with a vertical asymptote at <m>x = c \gt 0</m>.  For <m>x \gt c</m>, the function is decreasing and concave down and approaches a horizontal asymptote of <m>y = 0</m>.  For <m>x \lt c</m>, the function is always concave down with a local maximum at <m>(c-1, q(c-1))</m>.
+                  </p>
+                </description>
+              </image>
             </sidebyside>
           </li>
         </ol>
@@ -363,7 +387,13 @@
           </li>
           <li >
             <sidebyside width="100%" >
-              <image source="images/3_2_Ez3Soln"><description><p>ADD ALT TEXT TO THIS IMAGE</p></description></image>
+              <image source="images/3_2_Ez3Soln">
+                <description>
+                  <p>
+                    The graph of a bell curve with global maximum <m>(m,E(m))</m> in the first quadrant.  The points of inflection are also labeled: <m>(m \pm s,E(m \pm s))</m>.  All other aspects of the graph depict the properties noted in other parts of this exercise.
+                  </p>
+                </description>
+              </image>
             </sidebyside>
           </li>
         </ol>
@@ -428,7 +458,13 @@
               All of these properties are reflected in the following figure.
             </p>
             <sidebyside width="100%" >
-              <image source="images/3_2_Ez3Soln"><description><p>ADD ALT TEXT TO THIS IMAGE</p></description></image>
+              <image source="images/3_2_Ez3Soln">
+                <description>
+                  <p>
+                    The graph of a bell curve with global maximum <m>(m,E(m))</m> in the first quadrant.  The points of inflection are also labeled: <m>(m \pm s,E(m \pm s))</m>.  All other aspects of the graph depict the properties noted in other parts of this exercise.
+                  </p>
+                </description>
+              </image>
             </sidebyside>
           </li>
         </ol>

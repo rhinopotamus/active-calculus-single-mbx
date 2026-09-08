@@ -16,16 +16,21 @@
     <activity xml:id="act-3-6-4" workspace="3cm">
       <statement>
         <p>
-      A trough is being constructed by bending a <m>4 \times 24</m>
-      (measured in feet)
-      rectangular piece of sheet metal.
-      Two symmetric folds 2 feet apart will be made parallel to the longest side of the rectangle so that the trough has cross-sections in the shape of a trapezoid,
-      as pictured in the provided figure.
-      At what angle should the folds be made to produce the trough of maximum volume?
-    </p>
+          A trough is being constructed by bending a <m>4 \times 24</m>
+          (measured in feet)
+          rectangular piece of sheet metal.
+          Two symmetric folds 2 feet apart will be made parallel to the longest side of the rectangle so that the trough has cross-sections in the shape of a trapezoid,
+          as pictured in the provided figure.
+          At what angle should the folds be made to produce the trough of maximum volume?
+        </p>
 
-          <image width="60%" source="images/3_4_Act4"><description><p>ADD ALT TEXT TO THIS IMAGE</p></description></image>
-
+          <image width="60%" source="images/3_4_Act4">
+            <description>
+            <p>
+              This image shows a single cross section of the described trough.  Its horizontal base has length <m>2</m>, and each of its sides have length <m>1</m>.  The angle at which the sheet metal has been bent is labeled <m>\theta</m>, which is also the angle between one of the sides of length <m>1</m> and the horizontal base if it were extended.
+            </p>
+          </description>
+          </image>
       </statement>
       <hint>
         <p>

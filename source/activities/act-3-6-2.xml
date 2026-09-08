@@ -29,7 +29,13 @@
       where should the hiker turn into the forest?
     </p>
 
-          <image width="47%" source="images/3_4_Act2"><description><p>ADD ALT TEXT TO THIS IMAGE</p></description></image>
+          <image width="47%" source="images/3_4_Act2">
+            <description>
+              <p>
+                The image shows a right triangle with the right angle in the lower right corner, the longer leg horizontally (of length <m>3</m>), and the shorter leg vertically (of length <m>4</m>).  The top right vertex of the triangle is labeled <q>cabin</q>, the bottom left vertex is labeled <m>P</m> and the vertex at the right angle is labeled <m>Q</m>.  About <m>2/3</m> of the way from <m>P</m> to <m>Q</m>, the point where the hiker leaves the road to walk through the woods is labeled <m>Z</m>, and there's a dashed line in the image from <m>Z</m> to the cabin.
+              </p>
+            </description>
+          </image>
 
       </statement>
       <hint>

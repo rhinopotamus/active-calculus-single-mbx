@@ -64,8 +64,13 @@
 
       <figure xml:id="F-3-3-Intro">
         <caption>A function <m>f</m> with a global maximum, but no global minimum.</caption>
-        <image source="images/3_3_Intro"><description><p>A function <m>f</m> with a global maximum, but no global minimum.</p>
-        </description></image>
+        <image source="images/3_3_Intro">
+          <description>
+            <p>
+              This image shows a function that looks like a degree <m>4</m> polynomial that decreases without bound at both ends of the graph and that has three locations where there is a horizontal tangent line.  Those three critical points on the graph are labeled at locations <m>x = a</m>, <m>x = b</m>, and <m>x = c</m>: a relative maximum at <m>x = a</m>, a relative minimum at <m>x = b</m> and a global maximum at <m>x = c</m>.
+            </p>
+          </description>
+        </image>
       </figure>
     </sidebyside>
 
@@ -207,8 +212,13 @@
 
     <figure xml:id="F-3-3-Interval">
       <caption>A function <m>g</m> considered on three different intervals.</caption>
-      <image width="100%" source="images/3_3_Interval"><description><p>A function <m>g</m> considered on three different intervals.</p>
-      </description></image>
+      <image width="100%" source="images/3_3_Interval">
+        <description>
+          <p>
+            This collection of three images shows the same cubic polynomial function considered on three different intervals, as discussed in the itemized list that precedes the figure.  In each of the three images, the portion of the graph that lies above the interval of interest is emphasized in order to show how the absolute maximum and absolute minimum of the function depends on the interval of interest.
+          </p>
+        </description>
+      </image>
     </figure>
     <p>
       For optimizing on a closed, bounded interval, it's important to remember to consider only the critical numbers that lie within the interval.
@@ -248,8 +258,13 @@
 
         <figure xml:id="F-3-3-Ex1">
           <caption>A 20 cm piece of wire cut into two pieces, one of which forms an equilateral triangle, the other which yields a square.</caption>
-          <image width="56%" source="images/3_3_Ex1"><description><p>A 20 cm piece of wire cut into two pieces, one of which forms an equilateral triangle, the other which yields a square.</p>
-          </description></image>
+          <image width="56%" source="images/3_3_Ex1">
+            <description>
+              <p>
+                This image shows a piece of wire of length <m>20</m> cut into two pieces, with each piece labeled:  one of length <m>x</m>, the other of length <m>20-x</m>.  Beneath each piece is the shape that is formed by the piece, with a side length labeled.  At left below the piece of length <m>x</m>, an equilateral triangle with sides of length <m>\frac{x}{3}</m>.  At right below the piece of length <m>20-x</m>, a square with sides of length <m>\frac{20-x}{4}</m>.
+              </p>
+            </description>
+          </image>
         </figure>
       <!--</sidebyside>-->
         <p>
@@ -331,8 +346,13 @@
 
         <figure xml:id="F-3-3-Ex1Plot">
           <caption>A plot of the area function from <xref ref="Ex-3-3-1">Example</xref>.</caption>
-          <image width="47%" source="images/3_3_Ex1Plot"><description><p>A plot of the area function from <xref ref="Ex-3-3-1">Example</xref>.</p>
-          </description></image>
+          <image width="47%" source="images/3_3_Ex1Plot">
+            <description>
+              <p>
+                A plot of quadratic function <m>A(x)</m> for which we seek an absolute maximum and absolute minimum on <m>[0,20]</m>.  The graph verifies that the absolute maximum is <m>A(0)</m> and the absolute minimum occurs at the vertex of the parabola, since <m>A(x)</m> is concave up.
+              </p>
+            </description>
+          </image>
         </figure>
       </sidebyside>
       </solution>
