@@ -42,14 +42,26 @@
           </p>
         </hint>
         <answer>
-          <image width="65%" source="images/3_3_Act3Soln"><description><p>ADD ALT TEXT TO THIS IMAGE</p></description></image>
+          <image width="65%" source="images/3_3_Act3Soln">
+            <description>
+              <p>
+                ADD ALT TEXT TO THIS IMAGE
+              </p>
+            </description>
+          </image>
         </answer>
         <solution>
           <p>
             We let <m>x</m> represent the length of a side of the square that is cut from each corner,
             so that we have the following picture:
           </p>
-          <image width="65%" source="images/3_3_Act3Soln"><description><p>ADD ALT TEXT TO THIS IMAGE</p></description></image>
+          <image width="65%" source="images/3_3_Act3Soln">
+            <description>
+              <p>
+                An image of a <m>10 \times 15</m> rectangle with a square of dimensions <m>x \times x</m> removed from each corner.  The remaining shorter side of the rectangle is labeled <m>10-2x</m> and the remaining longer side of the rectangle is labeled <m>15-2x</m>.
+              </p>
+            </description>
+          </image>
         </solution>
       </task>
       <task workspace="2.5cm" xml:id="act-3-5-3-task-1">

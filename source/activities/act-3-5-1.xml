@@ -56,14 +56,66 @@
         </hint>
    -->
         <answer>
-          <image width="100%" source="images/3_3_Act1Soln"><description><p>ADD ALT TEXT TO THIS IMAGE</p></description></image>
+          <image width="100%" source="images/3_3_Act1Soln">
+            <description>
+              <p>
+                In sequence, from left to right in the figure (for which each of the three images shows the same function in the same window),
+                the interval under consideration is changed from <m>[-2,3]</m> to <m>[-2,2]</m> to <m>[-2,1]</m>.
+                <ul>
+                  <li>
+                    On the interval <m>[-2,3]</m>,
+                    there are two critical numbers,
+                    with the absolute minimum at one critical number and the absolute maximum at the right endpoint.
+                  </li>
+
+                  <li>
+                    On the interval <m>[-2,2]</m>,
+                    both critical numbers are in the interval,
+                    with the absolute minimum and maximum at the two critical numbers.
+                  </li>
+
+                  <li>
+                    On the interval <m>[-2,1]</m>,
+                    just one critical number lies in the interval,
+                    with the absolute maximum at one critical number and the absolute minimum at one endpoint.
+                  </li>
+                </ul>
+              </p>
+            </description>
+          </image>
         </answer>
         <solution>
           <p>
             The figure shown below shows three related plots,
             each with the emphases on the interval provided in (c), (d), and (e).
           </p>
-          <image width="100%" source="images/3_3_Act1Soln"><description><p>ADD ALT TEXT TO THIS IMAGE</p></description></image>
+          <image width="100%" source="images/3_3_Act1Soln">
+            <description>
+              <p>
+                In sequence, from left to right in the figure (for which each of the three images shows the same function in the same window),
+                the interval under consideration is changed from <m>[-2,3]</m> to <m>[-2,2]</m> to <m>[-2,1]</m>.
+                <ul>
+                  <li>
+                    On the interval <m>[-2,3]</m>,
+                    there are two critical numbers,
+                    with the absolute minimum at one critical number and the absolute maximum at the right endpoint.
+                  </li>
+
+                  <li>
+                    On the interval <m>[-2,2]</m>,
+                    both critical numbers are in the interval,
+                    with the absolute minimum and maximum at the two critical numbers.
+                  </li>
+
+                  <li>
+                    On the interval <m>[-2,1]</m>,
+                    just one critical number lies in the interval,
+                    with the absolute maximum at one critical number and the absolute minimum at one endpoint.
+                  </li>
+                </ul>
+              </p>
+            </description>
+          </image>
         </solution>
       </task>
       <task workspace="3cm" xml:id="act-3-5-1-task-2">
