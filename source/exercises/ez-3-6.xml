@@ -133,7 +133,13 @@
         There are two ways to do this as shown in the figure below (though only the one on the left explicitly follows the way the problem is framed).
       </p>
       <sidebyside >
-        <image source="images/3_4_Ez2Soln"><description><p>ADD ALT TEXT TO THIS IMAGE</p></description></image>
+        <image source="images/3_4_Ez2Soln">
+          <description>
+            <p>
+              Two possible arrangements of rectangular pens within a larger rectangle.  At left, a larger rectangle with vertical side <m>y</m> and horizontal side <m>x</m> where the horizontal side is subdivided into four equal pieces, each with vertical length <m>y</m>.  At right, a larger rectangle with vertical side <m>y</m> and horizontal side <m>x</m> where each is divided in half to created four smaller rectangles.
+            </p>
+          </description>
+        </image>
       </sidebyside>
       <p >
         We want to maximize the area of each subrectangular region,
@@ -225,7 +231,13 @@
         Note that we have included the given heights of the towers and the distance between them.
       </p>
       <sidebyside width="65%" >
-        <image source="images/3_4_Ez3Soln"><description><p>ADD ALT TEXT TO THIS IMAGE</p></description></image>
+        <image source="images/3_4_Ez3Soln">
+          <description>
+            <p>
+              An image showing two vertical towers of height <m>60</m> and <m>80</m> that are <m>100</m> feet apart.  On the horizontal segment between the towers, the location <m>x</m> is labeled where the cable from the top of the first tower touches the ground.  The length of that portion of the cable (which is the hypotenuse of a right triangle) is denoted by <m>y</m>, while the length of the portion of the cable from location <m>x</m> to the top of the second tower is denoted <m>z</m>.  In particular, the towers, the cable, and the ground form two right triangles.
+            </p>
+          </description>
+        </image>
       </sidebyside>
       <p >
         The total amount of cable, <m>L</m>, used
