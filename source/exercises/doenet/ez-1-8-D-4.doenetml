@@ -37,11 +37,26 @@
   <number name="Ay">$A.y</number>
   <number name="Bx">$B.x</number>
   <number name="By">$B.y</number>
-  <number name="m">($By-$Ay)/($Bx-$Ax)</number>
+  <number name="m"
+          displayDecimals="10"
+          padZeros="false">
+    ($By-$Ay)/($Bx-$Ax)
+  </number>
+  <number name="Axr"><round numDecimals="3">$A.x</round></number>
+  <number name="Ayr"><round numDecimals="3">$A.y</round></number>
+  <number name="Bxr"><round numDecimals="3">$B.x</round></number>
+  <number name="Byr"><round numDecimals="3">$B.y</round></number>
+  <number name="mr"
+          displayDecimals="10"
+          padZeros="false">
+    ($Byr-$Ayr)/($Bxr-$Axr)
+  </number>
 
+  <number name="diff" displayDecimals="10"><abs>$m-$mr</abs></number>
 </setup>
 
   <p>Let <m>g</m> be the function given by the graph below and <m>L</m> its tangent line approximation at the point <m>A</m>.</p>
+  
 
 <!--  <p><m>a = $a</m>, <m>b = $b</m>, and <m>c = $c</m>, so <m>g(x) = $$g(x)</m> and <m>L(x) = $$L(x)</m>, plus <m>A = $A</m> and <m>B = $B</m></p> -->
 
@@ -52,6 +67,8 @@
         </description>
         $g $L $A $B $gLabel $LLabel
       </graph>
+
+      Error: <m>\left| $m - $mr \right| = $diff</m>
 
 
 <p>
